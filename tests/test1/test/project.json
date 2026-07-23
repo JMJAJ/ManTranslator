@@ -1,0 +1,71 @@
+{
+  "name": "test",
+  "root": "C:\\Users\\Jxint\\Desktop\\Programming\\Projects\\ManTranslator\\tests\\test1\\test",
+  "source_lang": "ko",
+  "target_lang": "en",
+  "chapters": [
+    {
+      "name": "Chapter1",
+      "pages": [
+        {
+          "image_path": "C:\\Users\\Jxint\\Desktop\\Programming\\Projects\\ManTranslator\\tests\\test1\\test\\Chapter1\\source\\image.png",
+          "width": 856,
+          "height": 1376,
+          "is_strip": false,
+          "status": "rendered",
+          "regions": [
+            {
+              "id": "image_0",
+              "bbox": [
+                37,
+                0,
+                818,
+                1376
+              ],
+              "polygon": [
+                [
+                  37,
+                  0
+                ],
+                [
+                  855,
+                  0
+                ],
+                [
+                  855,
+                  1376
+                ],
+                [
+                  37,
+                  1376
+                ]
+              ],
+              "reading_order": 0,
+              "orientation": "horizontal",
+              "source_text": "아무리 '천한 피'가 섞였다고 한들,\n키이잉\n그분의 핏줄인 만큼 고통 없이 보내주겠소.\n천한 피... 라고...?",
+              "translated_text": "No matter how much 'common blood' was mixed in,\nKyeeing\nI will send him off without pain as he is related to you.\nCommon blood... right...?",
+              "ocr_confidence": 0.6,
+              "used_vision_fallback": true,
+              "text_color": [
+                26,
+                35,
+                57
+              ],
+              "stroke_color": [
+                255,
+                255,
+                255
+              ],
+              "font_size": 84,
+              "font_name": "CC Splashdown",
+              "alignment": "center",
+              "manual_override": false
+            }
+          ],
+          "output_path": "C:\\Users\\Jxint\\Desktop\\Programming\\Projects\\ManTranslator\\tests\\test1\\test\\Chapter1\\output\\image_translated.png",
+          "error": ""
+        }
+      ]
+    }
+  ]
+}

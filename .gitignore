@@ -1,0 +1,30 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# User data & runtime caches
+projects/
+models/
+*.log
+
+# Vendored upstream repos (cloned via git into .repos)
+.repos/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
