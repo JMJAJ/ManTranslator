@@ -1,0 +1,9 @@
+[submodule ".repos/PaddleOCR"]
+	path = .repos/PaddleOCR
+	url = https://github.com/PaddlePaddle/PaddleOCR.git
+[submodule ".repos/manga-ocr"]
+	path = .repos/manga-ocr
+	url = https://github.com/kha-white/manga-ocr.git
+[submodule ".repos/comic-text-detector"]
+	path = .repos/comic-text-detector
+	url = https://github.com/dmMaze/comic-text-detector.git

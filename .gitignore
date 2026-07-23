@@ -19,7 +19,7 @@ models/
 *.log
 
 # Vendored upstream repos (cloned via git into .repos)
-.repos/
+# .repos/
 
 # IDE
 .idea/
